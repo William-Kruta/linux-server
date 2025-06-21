@@ -1,0 +1,7 @@
+.env
+venv
+config/__pycache__
+modules/data/__pycache__
+modules/data/__pycache__
+modules/utils/__pycache__
+

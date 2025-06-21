@@ -1,0 +1,4 @@
+IPO: https://finance.yahoo.com/calendar/ipo?day=2025-06-18
+
+
+Econ Events: https://finance.yahoo.com/calendar/economic?day=2025-06-18&offset=0&size=100

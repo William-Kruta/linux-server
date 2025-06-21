@@ -1,0 +1,15 @@
+{
+  "database": {
+    "candles": {
+      "path": "files\\database\\stocks.db",
+      "tables": ["candles_1m", "candles_1d"]
+    },
+    "options": {
+      "path": "stocks.db",
+      "tables": ["options"]
+    }
+  },
+  "llm": {
+    "response_model": "gemma3:12b"
+  }
+}

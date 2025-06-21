@@ -1,0 +1,501 @@
+Symbol,Name,% Weight,Shares
+MSFT,Microsoft Corporation,6.02%,238818012.0
+NVDA,NVIDIA Corporation,5.51%,744635666.0
+AAPL,Apple Inc.,5.31%,482568559.0
+AMZN,Amazon.com Inc.,3.44%,306398771.0
+META,Meta Platforms Inc.,2.50%,70346890.0
+AVGO,Broadcom Inc.,2.00%,150574411.0
+GOOGL,Alphabet Inc.,1.74%,185403254.0
+TSLA,Tesla Inc.,1.67%,87824146.0
+BRK.B,Berkshire Hathaway Inc.,1.57%,56929698.0
+GOOG,Alphabet Inc.,1.44%,152056204.0
+JPM,JPMorgan Chase & Co.,1.28%,88414309.0
+LLY,Eli Lilly and Company,1.11%,27410967.0
+V,Visa Inc.,1.10%,54957933.0
+NFLX,Netflix Inc.,0.91%,13742068.0
+MA,Mastercard Incorporated,0.84%,26177224.0
+COST,Costco Wholesale Corporation,0.81%,14260561.0
+XOM,Exxon Mobil Corporation,0.78%,139451222.0
+WMT,Walmart Inc.,0.77%,141930987.0
+PG,The Procter & Gamble Company,0.70%,75352918.0
+JNJ,Johnson & Johnson,0.66%,77334501.0
+HD,The Home Depot Inc.,0.64%,31920157.0
+ABBV,AbbVie Inc.,0.58%,56697669.0
+BAC,Bank of America Corporation,0.50%,208713544.0
+PLTR,Palantir Technologies Inc.,0.50%,68627762.0
+PM,Philip Morris International Inc.,0.49%,49939978.0
+UNH,UnitedHealth Group Incorporated,0.49%,29561575.0
+ORCL,Oracle Corporation,0.49%,53905096.0
+GE,General Electric Company,0.44%,32754953.0
+KO,The Coca-Cola Company,0.44%,110583984.0
+WFC,Wells Fargo & Company,0.43%,105601685.0
+CRM,Salesforce Inc.,0.42%,29207782.0
+IBM,International Business Machines Corporation,0.42%,29785971.0
+ABT,Abbott Laboratories,0.41%,55731554.0
+CVX,Chevron Corporation,0.40%,53749246.0
+CSCO,Cisco Systems Inc.,0.40%,115111342.0
+MCD,McDonald's Corporation,0.39%,22958749.0
+LIN,Linde plc,0.39%,15200793.0
+NOW,ServiceNow Inc.,0.37%,6617122.0
+DIS,The Walt Disney Company,0.36%,58074708.0
+INTU,Intuit Inc.,0.35%,8531293.0
+T,AT&T Inc.,0.35%,230616384.0
+ACN,Accenture plc,0.35%,20091924.0
+ISRG,Intuitive Surgical Inc.,0.35%,11456315.0
+MRK,Merck & Co. Inc.,0.34%,81121332.0
+RTX,RTX Corporation,0.32%,42810327.0
+BKNG,Booking Holdings Inc.,0.32%,1054371.0
+ADBE,Adobe Inc.,0.32%,13983344.0
+PEP,PepsiCo Inc.,0.32%,44058727.0
+AMD,Advanced Micro Devices Inc.,0.32%,52052236.0
+GS,The Goldman Sachs Group Inc.,0.31%,9555471.0
+UBER,Uber Technologies Inc.,0.31%,67100915.0
+PGR,The Progressive Corporation,0.29%,18831676.0
+VZ,Verizon Communications Inc.,0.29%,121726129.0
+TXN,Texas Instruments Incorporated,0.29%,29246228.0
+CAT,Caterpillar Inc.,0.29%,15351255.0
+SPGI,S&P Global Inc.,0.28%,10119223.0
+QCOM,QUALCOMM Incorporated,0.28%,35534967.0
+BA,The Boeing Company,0.27%,24089322.0
+BSX,Boston Scientific Corporation,0.27%,47436576.0
+MS,Morgan Stanley,0.27%,38855296.0
+AMGN,Amgen Inc.,0.27%,17252781.0
+SCHW,The Charles Schwab Corporation,0.27%,55337230.0
+TMO,Thermo Fisher Scientific Inc.,0.27%,12114080.0
+HON,Honeywell International Inc.,0.26%,20871752.0
+NEE,NextEra Energy Inc.,0.26%,66067870.0
+AXP,American Express Company,0.25%,15797735.0
+TJX,The TJX Companies Inc.,0.25%,36122074.0
+GILD,Gilead Sciences Inc.,0.24%,40021233.0
+BLK,BlackRock Inc.,0.24%,4488574.0
+UNP,Union Pacific Corporation,0.24%,19410420.0
+PFE,Pfizer Inc.,0.23%,181978073.0
+ADP,Automatic Data Processing Inc.,0.23%,13071547.0
+SYK,Stryker Corporation,0.23%,11033605.0
+C,Citigroup Inc.,0.23%,55903609.0
+DE,Deere & Company,0.23%,8281228.0
+GEV,GE Vernova Inc.,0.23%,8861506.0
+CMCSA,Comcast Corporation,0.23%,121126395.0
+LOW,Lowe's Companies Inc.,0.22%,18138085.0
+PANW,Palo Alto Networks Inc.,0.22%,21265023.0
+AMAT,Applied Materials Inc.,0.22%,26097114.0
+ETN,Eaton Corporation plc,0.22%,12695591.0
+DHR,Danaher Corporation,0.21%,20654762.0
+,Slcmt1142,0.21%,39188944.0
+COF,Capital One Financial Corporation,0.21%,20541918.0
+,Mktliq 12/31/2049,0.21%,38301730.0
+MMC,Marsh & McLennan Companies Inc.,0.20%,15788746.0
+CB,Chubb Limited,0.20%,12307445.0
+LMT,Lockheed Martin Corporation,0.20%,7563758.0
+VRTX,Vertex Pharmaceuticals Incorporated,0.20%,8245997.0
+TMUS,T-Mobile US Inc.,0.19%,14668851.0
+CRWD,CrowdStrike Holdings Inc.,0.19%,7515792.0
+APH,Amphenol Corporation,0.19%,38897052.0
+COP,ConocoPhillips,0.19%,40865815.0
+MDT,Medtronic plc,0.19%,41191985.0
+ADI,Analog Devices Inc.,0.19%,15928696.0
+MU,Micron Technology Inc.,0.19%,35782176.0
+CME,CME Group Inc.,0.18%,11583382.0
+LRCX,Lam Research Corporation,0.18%,41225102.0
+ICE,Intercontinental Exchange Inc.,0.18%,18462097.0
+MO,Altria Group Inc.,0.18%,54287547.0
+PLD,Prologis Inc.,0.18%,29749970.0
+KLAC,KLA Corporation,0.18%,4267854.0
+AMT,American Tower Corporation,0.18%,15016682.0
+BX,Blackstone Inc.,0.18%,23189356.0
+WELL,Welltower Inc.,0.17%,20600494.0
+SO,The Southern Company,0.17%,35190612.0
+BMY,Bristol-Myers Squibb Company,0.17%,65164155.0
+APP,AppLovin Corporation,0.17%,7948539.0
+WM,Waste Management Inc.,0.17%,12932564.0
+TT,Trane Technologies plc,0.17%,7205948.0
+CEG,Constellation Energy Corporation,0.17%,10120337.0
+SBUX,Starbucks Corporation,0.17%,36480514.0
+FI,Fiserv Inc.,0.16%,18030436.0
+DUK,Duke Energy Corporation,0.16%,24804510.0
+MCK,McKesson Corporation,0.16%,4028163.0
+MSTR,MicroStrategy Incorporated,0.16%,7728447.0
+AJG,Arthur J. Gallagher & Co.,0.16%,8182971.0
+CI,The Cigna Group,0.15%,8932615.0
+ANET,Arista Networks Inc,0.15%,32400915.0
+MDLZ,Mondelez International Inc.,0.15%,41542925.0
+ELV,Elevance Health Inc.,0.15%,7301556.0
+EQIX,Equinix Inc.,0.15%,3126848.0
+PH,Parker-Hannifin Corporation,0.15%,4135889.0
+SHW,The Sherwin-Williams Company,0.14%,7270405.0
+KKR,KKR & Co. Inc.,0.14%,21396232.0
+CVS,CVS Health Corporation,0.14%,40489690.0
+MMM,3M Company,0.14%,17432101.0
+ORLY,O'Reilly Automotive Inc.,0.14%,1854422.0
+CDNS,Cadence Design Systems Inc.,0.14%,8803139.0
+TDG,TransDigm Group Incorporated,0.14%,1711222.0
+CTAS,Cintas Corporation,0.14%,11017152.0
+AON,Aon plc,0.13%,6594316.0
+INTC,Intel Corporation,0.13%,125152658.0
+CL,Colgate-Palmolive Company,0.13%,26064234.0
+WMB,The Williams Companies Inc.,0.13%,39164181.0
+MCO,Moody's Corporation,0.13%,4914873.0
+UPS,United Parcel Service Inc.,0.13%,23763485.0
+SNPS,Synopsys Inc.,0.13%,4965682.0
+NKE,NIKE Inc.,0.13%,37938748.0
+NOC,Northrop Grumman Corporation,0.12%,4649000.0
+PYPL,PayPal Holdings Inc.,0.12%,31761462.0
+MSI,Motorola Solutions Inc.,0.12%,5364232.0
+HWM,Howmet Aerospace Inc.,0.12%,13007464.0
+PNC,The PNC Financial Services Group Inc.,0.12%,12708942.0
+ITW,Illinois Tool Works Inc.,0.12%,8956217.0
+DASH,DoorDash Inc.,0.12%,10500412.0
+USB,U.S. Bancorp,0.12%,50067539.0
+ZTS,Zoetis Inc.,0.12%,12940035.0
+CMG,Chipotle Mexican Grill Inc.,0.12%,43524633.0
+ECL,Ecolab Inc.,0.12%,8180421.0
+EMR,Emerson Electric Co.,0.12%,18111353.0
+JCI,Johnson Controls International plc,0.12%,21205188.0
+FTNT,Fortinet Inc.,0.12%,20992996.0
+HCA,HCA Healthcare Inc.,0.12%,5583980.0
+GD,General Dynamics Corporation,0.11%,7380122.0
+ADSK,Autodesk Inc.,0.11%,6904781.0
+BK,The Bank of New York Mellon Corporation,0.11%,23005998.0
+AZO,AutoZone Inc.,0.11%,539091.0
+TRV,The Travelers Companies Inc.,0.11%,7283204.0
+RCL,Royal Caribbean Cruises Ltd.,0.11%,7779291.0
+APD,Air Products and Chemicals Inc.,0.11%,7144820.0
+CRH,CRH plc,0.11%,21726016.0
+ROP,Roper Technologies Inc.,0.11%,3448743.0
+SNOW,Snowflake Inc.,0.11%,9537030.0
+EOG,EOG Resources Inc.,0.11%,18062757.0
+CSX,CSX Corporation,0.11%,61936042.0
+HLT,Hilton Worldwide Holdings Inc.,0.11%,7727420.0
+NEM,Newmont Corporation,0.10%,36183859.0
+CARR,Carrier Global Corporation,0.10%,26362834.0
+MAR,Marriott International Inc.,0.10%,7082946.0
+DLR,Digital Realty Trust Inc.,0.10%,10813079.0
+AFL,Aflac Incorporated,0.10%,17553958.0
+NSC,Norfolk Southern Corporation,0.10%,7270814.0
+ALL,The Allstate Corporation,0.10%,8512751.0
+FCX,Freeport-McMoRan Inc.,0.10%,46139735.0
+AEP,American Electric Power Company Inc.,0.10%,17130431.0
+VST,Vistra Corp.0.10%,10926866,
+AXON,Axon Enterprise Inc.,0.10%,2325676.0
+WDAY,Workday Inc.,0.09%,6873488.0
+KMI,Kinder Morgan Inc.,0.09%,60636002.0
+REGN,Regeneron Pharmaceuticals Inc.,0.09%,3451205.0
+RSG,Republic Services Inc.,0.09%,6529849.0
+APO,Apollo Global Management Inc.,0.09%,12822260.0
+MRVL,Marvell Technology Inc.,0.09%,27781293.0
+TFC,Truist Financial Corporation,0.09%,41963390.0
+SRE,Sempra,0.09%,20922149.0
+PAYX,Paychex Inc.,0.09%,10406335.0
+RBLX,Roblox Corporation,0.09%,18886124.0
+ABNB,Airbnb Inc.,0.09%,12717262.0
+TSX:WCN,Waste Connections Inc.,0.09%,8290495.0
+COR,Cencora Inc.,0.09%,5607976.0
+HOOD,Robinhood Markets Inc.,0.09%,24656469.0
+PWR,Quanta Services Inc.,0.09%,4760584.0
+SPG,Simon Property Group Inc.,0.09%,9955066.0
+O,Realty Income Corporation,0.09%,28650365.0
+OKE,ONEOK Inc.,0.09%,20050074.0
+LNG,Cheniere Energy Inc.,0.09%,6822192.0
+MPC,Marathon Petroleum Corporation,0.09%,10037797.0
+AIG,American International Group Inc.,0.09%,19057347.0
+BDX,Becton Dickinson and Company,0.09%,9221949.0
+GM,General Motors Company,0.09%,31946793.0
+COIN,Coinbase Global Inc.,0.09%,6412042.0
+PCAR,PACCAR Inc,0.09%,16848705.0
+CTVA,Corteva Inc.,0.09%,22222314.0
+AMP,Ameriprise Financial Inc.,0.09%,3086680.0
+PSA,Public Storage,0.09%,5072038.0
+NET,Cloudflare Inc.,0.09%,9401414.0
+D,Dominion Energy Inc.,0.08%,27358167.0
+TEL,TE Connectivity plc,0.08%,9577467.0
+KMB,Kimberly-Clark Corporation,0.08%,10646828.0
+FAST,Fastenal Company,0.08%,36838275.0
+FDX,FedEx Corporation,0.08%,6959323.0
+GWW,W.W. Grainger Inc.,0.08%,1394117.0
+URI,United Rentals Inc.,0.08%,2097567.0
+PSX,Phillips 66,0.08%,13087061.0
+ROST,Ross Stores Inc.,0.08%,10597915.0
+EW,Edwards Lifesciences Corporation,0.08%,18939950.0
+LHX,L3Harris Technologies Inc.,0.08%,6046514.0
+KVUE,Kenvue Inc.,0.08%,61444487.0
+MET,MetLife Inc.,0.08%,18596082.0
+SLB,Schlumberger Limited,0.08%,43608672.0
+CPRT,Copart Inc.,0.08%,27924535.0
+KR,The Kroger Co.,0.08%,20911098.0
+CMI,Cummins Inc.,0.08%,4415332.0
+VRSK,Verisk Analytics Inc.,0.08%,4503519.0
+EXC,Exelon Corporation,0.08%,32280392.0
+MNST,Monster Beverage Corporation,0.08%,21855488.0
+KDP,Keurig Dr Pepper Inc.,0.08%,41424853.0
+TGT,Target Corporation,0.08%,14708047.0
+CCI,Crown Castle Inc.,0.08%,13748050.0
+FIS,Fidelity National Information Services Inc.,0.07%,17009687.0
+IDXX,IDEXX Laboratories Inc.,0.07%,2612114.0
+XEL,Xcel Energy Inc.,0.07%,19122999.0
+CVNA,Carvana Co.,0.07%,4088285.0
+MSCI,MSCI Inc.,0.07%,2369825.0
+AME,AMETEK Inc.,0.07%,7410477.0
+VRT,Vertiv Holdings Co,0.07%,12229197.0
+VEEV,Veeva Systems Inc.,0.07%,4692069.0
+VLO,Valero Energy Corporation,0.07%,10109440.0
+PEG,Public Service Enterprise Group Incorporated,0.07%,16015986.0
+F,Ford Motor Company,0.07%,124897328.0
+YUM,Yum! Brands Inc.,0.07%,8964063.0
+FICO,Fair Isaac Corporation,0.07%,745053.0
+CTSH,Cognizant Technology Solutions Corporation,0.07%,15875656.0
+ALNY,Alnylam Pharmaceuticals Inc.,0.07%,4154554.0
+TTWO,Take-Two Interactive Software Inc.,0.07%,5530024.0
+HES,Hess Corporation,0.07%,9398738.0
+NDAQ,Nasdaq Inc.,0.07%,14770235.0
+GLW,Corning Incorporated,0.07%,24743055.0
+OTIS,Otis Worldwide Corporation,0.07%,12738748.0
+CBRE,CBRE Group Inc.,0.07%,9633374.0
+EA,Electronic Arts Inc.,0.07%,8371028.0
+CAH,Cardinal Health Inc.,0.07%,7761327.0
+HIG,The Hartford Insurance Group Inc.,0.07%,9162891.0
+ED,Consolidated Edison Inc.,0.06%,11334351.0
+PRU,Prudential Financial Inc.,0.06%,11365199.0
+BKR,Baker Hughes Company,0.06%,31761100.0
+CHTR,Charter Communications Inc.,0.06%,2962822.0
+FERG,Ferguson Enterprises Inc.,0.06%,6417783.0
+PCG,PG&E Corporation,0.06%,68591830.0
+RMD,ResMed Inc.,0.06%,4714045.0
+ETR,Entergy Corporation,0.06%,13821067.0
+SYY,Sysco Corporation,0.06%,15705970.0
+ROK,Rockwell Automation Inc.,0.06%,3629982.0
+DDOG,Datadog Inc.,0.06%,9680359.0
+LULU,lululemon athletica inc.,0.06%,3559646.0
+EBAY,eBay Inc.,0.06%,15375486.0
+VMC,Vulcan Materials Company,0.06%,4241291.0
+WAB,Westinghouse Air Brake Technologies Corporation,0.06%,5483848.0
+XYZ,Block Inc.,0.06%,17950985.0
+TRGP,Targa Resources Corp.,0.06%,7001048.0
+WEC,WEC Energy Group Inc.,0.06%,10208559.0
+TEAM,Atlassian Corporation,0.06%,5266641.0
+TTD,The Trade Desk Inc.,0.06%,14525504.0
+ACGL,Arch Capital Group Ltd.,0.06%,11472530.0
+DELL,Dell Technologies Inc.,0.06%,9745775.0
+DXCM,DexCom Inc.,0.06%,12542099.0
+DHI,D.R. Horton Inc.,0.06%,9100244.0
+MLM,Martin Marietta Materials Inc.,0.06%,1957133.0
+EQT,EQT Corporation,0.06%,19177267.0
+IR,Ingersoll Rand Inc.,0.06%,12942764.0
+EFX,Equifax Inc.,0.06%,3981962.0
+EXR,Extra Space Storage Inc.,0.06%,6808379.0
+A,Agilent Technologies Inc.,0.06%,9162617.0
+IT,Gartner Inc.,0.06%,2343806.0
+DAL,Delta Air Lines Inc.,0.06%,20778441.0
+GRMN,Garmin Ltd.,0.05%,4941831.0
+MCHP,Microchip Technology Incorporated,0.05%,17257554.0
+ARES,Ares Management Corporation,0.05%,6051403.0
+WTW,Willis Towers Watson Public Limited Company,0.05%,3160380.0
+CSGP,CoStar Group Inc.,0.05%,13537016.0
+NRG,NRG Energy Inc.,0.05%,6357166.0
+MPWR,Monolithic Power Systems Inc.,0.05%,1488455.0
+LPLA,LPL Financial Holdings Inc.,0.05%,2544364.0
+GEHC,GE HealthCare Technologies Inc.,0.05%,13950517.0
+XYL,Xylem Inc.,0.05%,7801282.0
+ODFL,Old Dominion Freight Line Inc.,0.05%,6138200.0
+VICI,VICI Properties Inc.,0.05%,30764998.0
+MTB,M&T Bank Corporation,0.05%,5272234.0
+GIS,General Mills Inc.,0.05%,17702185.0
+AVB,AvalonBay Communities Inc.,0.05%,4566943.0
+HUBS,HubSpot Inc.,0.05%,1590107.0
+IRM,Iron Mountain Incorporated,0.05%,9430161.0
+ANSS,ANSYS Inc.,0.05%,2812303.0
+BR,Broadridge Financial Solutions Inc.,0.05%,3753377.0
+HUM,Humana Inc.,0.05%,3874725.0
+VTR,Ventas Inc.,0.05%,14035315.0
+BRK.A,Berkshire Hathaway Inc.,0.05%,1187.0
+CNC,Centene Corporation,0.05%,15922141.0
+AWK,American Water Works Company Inc.,0.05%,6256438.0
+BRO,Brown & Brown Inc.,0.05%,7804775.0
+STZ,Constellation Brands Inc.,0.05%,4928767.0
+KEYS,Keysight Technologies Inc.,0.05%,5546984.0
+RJF,Raymond James Financial Inc.,0.05%,5921480.0
+OXY,Occidental Petroleum Corporation,0.05%,21096309.0
+STT,State Street Corporation,0.05%,8794890.0
+UAL,United Airlines Holdings Inc.,0.05%,10564796.0
+AEE,Ameren Corporation,0.05%,8551380.0
+GDDY,GoDaddy Inc.,0.05%,4535706.0
+TSCO,Tractor Supply Company,0.05%,17060881.0
+EXE,Expand Energy Corporation,0.05%,7098998.0
+FITB,Fifth Third Bancorp,0.04%,21379927.0
+ZS,Zscaler Inc.,0.04%,2956899.0
+FANG,Diamondback Energy Inc.,0.04%,6041109.0
+EQR,Equity Residential,0.04%,11577736.0
+NUE,Nucor Corporation,0.04%,7395562.0
+DD,DuPont de Nemours Inc.,0.04%,12085207.0
+IP,International Paper Company,0.04%,16884979.0
+PPG,PPG Industries Inc.,0.04%,7284250.0
+DRI,Darden Restaurants Inc.,0.04%,3758443.0
+STX,Seagate Technology Holdings plc,0.04%,6799568.0
+SBAC,SBA Communications Corporation,0.04%,3457483.0
+TYL,Tyler Technologies Inc.,0.04%,1380116.0
+ATO,Atmos Energy Corporation,0.04%,5088215.0
+DOV,Dover Corporation,0.04%,4407974.0
+PPL,PPL Corporation,0.04%,22500530.0
+CNP,CenterPoint Energy Inc.,0.04%,20930516.0
+MTD,Mettler-Toledo International Inc.,0.04%,671507.0
+CHD,Church & Dwight Co. Inc.,0.04%,7889591.0
+STE,STERIS plc,0.04%,3154459.0
+DTE,DTE Energy Company,0.04%,5650651.0
+CBOE,Cboe Global Markets Inc.,0.04%,3361410.0
+CDW,CDW Corporation,0.04%,4252301.0
+FTV,Fortive Corporation,0.04%,10916552.0
+HSY,The Hershey Company,0.04%,4745513.0
+ES,Eversource Energy,0.04%,11763854.0
+VLTO,Veralto Corporation,0.04%,7543952.0
+CINF,Cincinnati Financial Corporation,0.04%,5020983.0
+MKL,Markel Group Inc.,0.04%,389150.0
+HPQ,HP Inc.,0.04%,30315080.0
+IQV,IQVIA Holdings Inc.,0.04%,5367917.0
+HEI.A,HEICO Corporation,0.04%,3183334.0
+TDY,Teledyne Technologies Incorporated,0.04%,1503589.0
+ADM,Archer-Daniels-Midland Company,0.04%,15391603.0
+CCL,Carnival Corporation & plc,0.04%,31762822.0
+FE,FirstEnergy Corp.,0.04%,17582690.0
+K,Kellanova,0.04%,8895045.0
+PODD,Insulet Corporation,0.04%,2255593.0
+HBAN,Huntington Bancshares Incorporated,0.04%,46688871.0
+HPE,Hewlett Packard Enterprise Company,0.04%,42196615.0
+SW,Smurfit Westrock Plc,0.04%,16712590.0
+LYV,Live Nation Entertainment Inc.,0.04%,5245592.0
+SYF,Synchrony Financial,0.04%,12458289.0
+KHC,The Kraft Heinz Company,0.04%,26840878.0
+WBD,Warner Bros. Discovery Inc.,0.04%,70887285.0
+VRSN,VeriSign Inc.,0.04%,2581093.0
+ULTA,Ulta Beauty Inc.,0.04%,1490005.0
+TPL,Texas Pacific Land Corporation,0.04%,627343.0
+IBKR,Interactive Brokers Group Inc.,0.04%,3320761.0
+CPAY,Corpay Inc.,0.04%,2129227.0
+EIX,Edison International,0.04%,12422291.0
+EME,EMCOR Group Inc.,0.04%,1459949.0
+DG,Dollar General Corporation,0.04%,7059278.0
+WRB,W. R. Berkley Corporation,0.04%,9136063.0
+CMS,CMS Energy Corporation,0.04%,9603672.0
+LEN,Lennar Corporation,0.04%,6336302.0
+HUBB,Hubbell Incorporated,0.04%,1723463.0
+LH,Labcorp Holdings Inc.,0.04%,2686696.0
+TROW,T. Rowe Price Group Inc.,0.04%,7141385.0
+WAT,Waters Corporation,0.04%,1910595.0
+EXPE,Expedia Group Inc.,0.04%,3957410.0
+SMCI,Super Micro Computer Inc.,0.04%,16200311.0
+NVR,NVR Inc.,0.04%,91109.0
+NTAP,NetApp Inc.,0.04%,6534857.0
+FWONK,Formula One Group,0.04%,6687142.0
+WSM,Williams-Sonoma Inc.,0.04%,3953400.0
+PHM,PulteGroup Inc.,0.03%,6494648.0
+TOST,Toast Inc.,0.03%,15082303.0
+NTRS,Northern Trust Corporation,0.03%,5959483.0
+NTRA,Natera Inc.,0.03%,4023920.0
+LUV,Southwest Airlines Co.,0.03%,19010971.0
+DVN,Devon Energy Corporation,0.03%,20831173.0
+INVH,Invitation Homes Inc.,0.03%,18679548.0
+IFF,International Flavors & Fragrances Inc.,0.03%,8211325.0
+NTNX,Nutanix Inc.,0.03%,8171292.0
+LDOS,Leidos Holdings Inc.,0.03%,4212297.0
+TSX:RBA,RB Global Inc.,0.03%,5934764.0
+DOW,Dow Inc.,0.03%,22472954.0
+RF,Regions Financial Corporation,0.03%,29060409.0
+PTC,PTC Inc.,0.03%,3669460.0
+DGX,Quest Diagnostics Incorporated,0.03%,3562737.0
+ZM,Zoom Communications Inc.,0.03%,7565418.0
+BIIB,Biogen Inc.,0.03%,4700460.0
+WY,Weyerhaeuser Company,0.03%,23297162.0
+DUOL,Duolingo Inc.,0.03%,1156632.0
+NI,NiSource Inc.,0.03%,15140870.0
+DLTR,Dollar Tree Inc.,0.03%,6559392.0
+MKC,McCormick & Company Incorporated,0.03%,8112415.0
+ZBH,Zimmer Biomet Holdings Inc.,0.03%,6391936.0
+MAA,Mid-America Apartment Communities Inc.,0.03%,3757038.0
+ESS,Essex Property Trust Inc.,0.03%,2066670.0
+USFD,US Foods Holding Corp.,0.03%,7398699.0
+LII,Lennox International Inc.,0.03%,1027692.0
+WDC,Western Digital Corporation,0.03%,11194653.0
+GWRE,Guidewire Software Inc.,0.03%,2681298.0
+DOCU,DocuSign Inc.,0.03%,6483492.0
+STLD,Steel Dynamics Inc.,0.03%,4647164.0
+ON,ON Semiconductor Corporation,0.03%,13534465.0
+CTRA,Coterra Energy Inc.,0.03%,23324725.0
+PFG,Principal Financial Group Inc.,0.03%,7249054.0
+PINS,Pinterest Inc.,0.03%,18131221.0
+GPC,Genuine Parts Company,0.03%,4453090.0
+KEY,KeyCorp,0.03%,35492688.0
+TRMB,Trimble Inc.,0.03%,7895288.0
+JBL,Jabil Inc.,0.03%,3332987.0
+FDS,FactSet Research Systems Inc.,0.03%,1221784.0
+FCNCA,First Citizens BancShares Inc.,0.03%,302310.0
+PKG,Packaging Corporation of America,0.03%,2885323.0
+SFM,Sprouts Farmers Market Inc.,0.03%,3164596.0
+FIX,Comfort Systems USA Inc.,0.03%,1141742.0
+SSNC,SS&C Technologies Holdings Inc.,0.03%,6754305.0
+CSL,Carlisle Companies Incorporated,0.03%,1430974.0
+MOH,Molina Healthcare Inc.,0.03%,1782274.0
+OKTA,Okta Inc.,0.03%,5255027.0
+SNA,Snap-on Incorporated,0.03%,1683008.0
+TW,Tradeweb Markets Inc.,0.03%,3728775.0
+CFG,Citizens Financial Group Inc.,0.03%,13335990.0
+TRU,TransUnion,0.03%,6264440.0
+DKNG,DraftKings Inc.,0.03%,14933748.0
+ROL,Rollins Inc.,0.03%,9326798.0
+PSTG,Pure Storage Inc.,0.03%,9943997.0
+CW,Curtiss-Wright Corporation,0.03%,1207593.0
+FFIV,F5 Inc.,0.03%,1850321.0
+PNR,Pentair plc,0.03%,5295940.0
+EQH,Equitable Holdings Inc.,0.03%,9902179.0
+TPR,Tapestry Inc.,0.03%,6649527.0
+CLX,The Clorox Company,0.03%,3958222.0
+CASY,Casey's General Stores Inc.,0.03%,1190359.0
+TWLO,Twilio Inc.,0.03%,4408746.0
+FSLR,First Solar Inc.,0.03%,3265596.0
+TSN,Tyson Foods Inc.,0.03%,9186124.0
+THC,Tenet Healthcare Corporation,0.03%,3055550.0
+DECK,Deckers Outdoor Corporation,0.03%,4873574.0
+LNT,Alliant Energy Corporation,0.03%,8253380.0
+RS,Reliance Inc.,0.03%,1739807.0
+GEN,Gen Digital Inc.,0.03%,17818382.0
+SUI,Sun Communities Inc.,0.03%,4096321.0
+BAX,Baxter International Inc.,0.03%,16448697.0
+EXPD,Expeditors International of Washington Inc.,0.03%,4435240.0
+WSO,Watsco Inc.,0.03%,1118412.0
+CF,CF Industries Holdings Inc.,0.03%,5443442.0
+DT,Dynatrace Inc.,0.03%,9129262.0
+APTV,Aptiv PLC,0.03%,7357796.0
+WST,West Pharmaceutical Services Inc.,0.03%,2320854.0
+L,Loews Corporation,0.03%,5469041.0
+HAL,Halliburton Company,0.03%,24920039.0
+BALL,Ball Corporation,0.03%,9097441.0
+J,Jacobs Solutions Inc.,0.03%,3859174.0
+BJ,BJ's Wholesale Club Holdings Inc.,0.03%,4241080.0
+EG,Everest Group Ltd.,0.03%,1381263.0
+ZBRA,Zebra Technologies Corporation,0.03%,1650466.0
+LYB,LyondellBasell Industries N.V.,0.03%,8345905.0
+DPZ,Domino's Pizza Inc.,0.03%,992076.0
+RPM,RPM International Inc.,0.03%,4126287.0
+ACM,AECOM,0.03%,4272105.0
+EVRG,Evergy Inc.,0.03%,7029514.0
+BURL,Burlington Stores Inc.,0.03%,2037062.0
+OMC,Omnicom Group Inc.,0.03%,6314085.0
+GGG,Graco Inc.,0.03%,5440517.0
+KIM,Kimco Realty Corporation,0.03%,21643375.0
+GPN,Global Payments Inc.,0.03%,6083662.0
+UTHR,United Therapeutics Corporation,0.03%,1440405.0
+FNF,Fidelity National Financial Inc.,0.03%,8350791.0
+UNM,Unum Group,0.02%,5572405.0
+EL,The Estée Lauder Companies Inc.,0.02%,6763205.0
+AVY,Avery Dennison Corporation,0.02%,2537113.0
+PFGC,Performance Food Group Company,0.02%,5014383.0
+HOLX,Hologic Inc.,0.02%,7208909.0
+SOFI,SoFi Technologies Inc.,0.02%,33403247.0
+UDR,UDR Inc.,0.02%,10644372.0
+WPC,W. P. Carey Inc.,0.02%,7023797.0
+IEX,IDEX Corporation,0.02%,2433987.0
+COO,The Cooper Companies Inc.,0.02%,6419085.0
+SGI,Somnigroup International Inc.,0.02%,6698816.0
+TXT,Textron Inc.,0.02%,5858316.0
+BAH,Booz Allen Hamilton Holding Corporation,0.02%,4066241.0
+RGA,Reinsurance Group of America Incorporated,0.02%,2118264.0
+MDB,MongoDB Inc.,0.02%,2272027.0
+FTI,TechnipFMC plc,0.02%,13686485.0
+MAS,Masco Corporation,0.02%,6814185.0

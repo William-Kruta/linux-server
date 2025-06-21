@@ -1,0 +1,19 @@
+pandas
+polars
+pyarrow
+yfinance
+Quantlib
+scipy
+
+# Web 
+aiohttp
+duckduckgo-search
+googlesearch-python
+requests 
+beautifulsoup4
+
+# Ollama 
+ollama
+
+# Other 
+pyyaml
