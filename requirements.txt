@@ -17,3 +17,7 @@ ollama
 
 # Other 
 pyyaml
+
+# Server 
+fastapi 
+uvicorn
