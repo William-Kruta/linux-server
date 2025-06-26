@@ -21,10 +21,12 @@ def get_news(ticker: str, db_path: str):
     else:
         last_date = local_news["date_collected"].max()
         stale = is_stale(last_date, 3)
-        print(stale)
-
-        print(f"Last: {last_date}")
-
+        if stale: 
+            candles = get_candles(ticker, "1d", db_path=db_path)
+            news = _fetch_yahoo_news(ticker, candles)
+            _insert_news(news, db_path, table_name)
+            local_news = _read_news(ticker, db_path, table_name)
+    return local_news
 
 def _fetch_yahoo_news(
     ticker: str, candles: pl.DataFrame, backtest_windows: list = [1, 5, 22]

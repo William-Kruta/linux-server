@@ -15,6 +15,7 @@ def get_candles(
 ):
     ticker = ticker.upper()
     table_name = f"candles_{interval}"
+    print(f"TableName: {table_name}")
     _create_table(db_path, table_name)
     if force_update:
         web_candles = _fetch_candles(ticker, interval, period)
