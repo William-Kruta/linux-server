@@ -39,9 +39,9 @@ class API:
             )
         return df
 
-    def get_options(self, ticker: str, all_expirations: bool = True):
+    def get_options(self, ticker: str, all_expirations: bool = True, fetch_new: bool = False):
         url = f"{self.server_url}/get_options/{ticker.upper()}"
-        resp = requests.get(url, params={"all_expirations": all_expirations})
+        resp = requests.get(url, params={"all_expirations": all_expirations, "fetch_new": fetch_new})
         resp.raise_for_status()
         candles = resp.json()
         candles = json.loads(candles)

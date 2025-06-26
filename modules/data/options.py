@@ -39,12 +39,13 @@ columns = [
 ]
 
 
-def get_options_chain(ticker, db_path: str, all_expirations: bool = True):
+def get_options_chain(ticker, db_path: str, all_expirations: bool = True, fetch_new: bool =True):
     ticker = ticker.upper()
     table_name = "options"
     _create_table(db_path, table_name)
     local_chain = _read_chain(ticker, db_path, table_name)
-    if local_chain.is_empty():
+    
+    if fetch_new:
         chain = _fetch_chain(ticker, db_path, all_expirations)
         try:
             chain = chain.rename(chain_columns_mapping)
@@ -52,6 +53,7 @@ def get_options_chain(ticker, db_path: str, all_expirations: bool = True):
             return pl.DataFrame()
         _insert_chain(ticker, chain, db_path, table_name)
         local_chain = _read_chain(ticker, db_path, table_name)
+        
     return local_chain
 
 

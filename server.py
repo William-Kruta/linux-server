@@ -46,8 +46,8 @@ def server_get_candles(symbol: str, interval: str):
     return JSONResponse(content=data)
 
 @app.get("/get_options/{symbol}", response_model=List)
-def server_get_options(symbol: str, all_expirations: bool = True): 
-    chain = get_options_chain(symbol.upper(), DB_PATH, all_expirations)
+def server_get_options(symbol: str, all_expirations: bool = True, fetch_new: bool = False): 
+    chain = get_options_chain(symbol.upper(), DB_PATH, all_expirations, fetch_new)
     data = chain.to_pandas()
     data = data.to_json(orient="records", date_format="iso")
     return JSONResponse(content=data)
